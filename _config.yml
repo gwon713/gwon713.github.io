@@ -14,7 +14,7 @@ website: https://velog.io/@gwon713
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
-darkmode: never
+darkmode: true
 
 # Social links
 github_username:  gwon713
