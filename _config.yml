@@ -90,11 +90,33 @@ content:
         description: | # this will include new lines to allow paragraphs
           Description of qualification
   - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+      
+      - layout: left
+      name: Backend
+      description: | # this will include new lines to allow paragraphs
+        * Java, Groovy, NodeJS
+        * Spring Boot, Spring MVC, Spring Batch, Spring Security, Spring Data JPA/Redis, Spring Cloud AWS
+        * JPA, Querydsl, Hibernate
+        * Junit4/5, Mockito, Spock
+        * Gradle, Maven
+        * IntelliJ, Visual Studio Code 
+      - layout: left
+      name: DevOps
+      description: | # this will include new lines to allow paragraphs
+        * MySQL, MariaDB
+        * Jenkins, TravisCI, AWS Code Deploy
+        * AWS Beanstalk, AWS SQS, Elastic Cache (Redis), RDS (Aurora), S3, EC2, Cloud Watch
+        * Nginx, Tomcat
+        * Pinpoint, Ngrinder
+        * Linux Centos
+      - layout: left
+      name: Frontend
+      description: | # this will include new lines to allow paragraphs
+        * ES6
+        * Npm, Grunt, Webpack
+        * Handlebars, Lodash
+        * Backbone
 
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
 
 # Footer
 footer_show_references: true
