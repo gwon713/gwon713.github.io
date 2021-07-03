@@ -1,5 +1,5 @@
 # Site
-repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
+repository: gwon713/gwon713.github.io
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Content configuration version
@@ -101,7 +101,7 @@ content:
           - Junit4/5, Mockito, Spock
           - Gradle, Maven
           - IntelliJ, Visual Studio Code 
-      - layout: left
+      #- layout: left
         title: DevOps
         description: | # this will include new lines to allow paragraphs
           - MySQL, MariaDB
@@ -110,7 +110,7 @@ content:
           - Nginx, Tomcat
           - Pinpoint, Ngrinder
           - Linux Centos
-      - layout: left
+      #- layout: left
         title: Frontend
         description: | # this will include new lines to allow paragraphs
           - ES6
