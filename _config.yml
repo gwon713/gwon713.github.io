@@ -96,12 +96,12 @@ content:
         title : Language 
         description: |
           - JavaScript, Java, Python
-          
+      - layout: left
         title: Backend
         description: | # this will include new lines to allow paragraphs
           - Express, Spring Boot
           - Express 
-          
+      - layout: left
         title: DevOps
         description: | # this will include new lines to allow paragraphs
           - MySQL, Oracle, MongoDB
@@ -110,11 +110,11 @@ content:
           - ElK ( Beats, Logstash, Elasticsearch, Kibana)
           - Docker, Docker-compose
           - Linux, Ubuntu
-
+      - layout: left
         title: Frontend
         description: | # this will include new lines to allow paragraphs
           - React
-        
+      - layout: left
         title: Tool
         description: |
           - Git, GitHub, Slack
