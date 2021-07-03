@@ -100,13 +100,13 @@ content:
         title: Backend
         description: | # this will include new lines to allow paragraphs
           - Express, Spring Boot
-          - Passport
+          - Passport, Winston, Morgan
       - layout: left
         title: DevOps
         description: | # this will include new lines to allow paragraphs
           - MySQL, Oracle, MongoDB
           - AWS : EC2, RDS (Aurora), Elastic Cache (Redis), Route53, LoadBalancer, S3, Cloud Watch
-          - Nginx
+          - Nginx, pm2
           - ElK ( Beats, Logstash, Elasticsearch, Kibana)
           - Docker, Docker-compose
           - Linux, Ubuntu
