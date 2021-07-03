@@ -91,7 +91,7 @@ content:
           Description of qualification
   - title: A Little More About Me
       - layout: left
-        name: Backend
+        title: Backend
         description: | # this will include new lines to allow paragraphs
         * Java, Groovy, NodeJS
         * Spring Boot, Spring MVC, Spring Batch, Spring Security, Spring Data JPA/Redis, Spring Cloud AWS
@@ -100,7 +100,7 @@ content:
         * Gradle, Maven
         * IntelliJ, Visual Studio Code 
       - layout: left
-        name: DevOps
+        title: DevOps
         description: | # this will include new lines to allow paragraphs
         * MySQL, MariaDB
         * Jenkins, TravisCI, AWS Code Deploy
@@ -109,7 +109,7 @@ content:
         * Pinpoint, Ngrinder
         * Linux Centos
       - layout: left
-        name: Frontend
+        title: Frontend
         description: | # this will include new lines to allow paragraphs
         * ES6
         * Npm, Grunt, Webpack
