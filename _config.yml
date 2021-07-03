@@ -101,6 +101,7 @@ content:
           - Junit4/5, Mockito, Spock
           - Gradle, Maven
           - IntelliJ, Visual Studio Code 
+      - layout: left
         title: DevOps
         description: | # this will include new lines to allow paragraphs
           - MySQL, MariaDB
@@ -109,6 +110,7 @@ content:
           - Nginx, Tomcat
           - Pinpoint, Ngrinder
           - Linux Centos
+      - layout: left
         title: Frontend
         description: | # this will include new lines to allow paragraphs
           - ES6
