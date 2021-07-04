@@ -113,7 +113,7 @@ content:
           Framework : Spring Boot
           DB : Oracle
           Other : openCV, Deep Learning Basic(tensorflow), raspberry pi, Linux
-  - title: SKill
+  - title: SKills
     layout: list
     content:
       - layout: left
@@ -143,7 +143,17 @@ content:
         description: |
           - Git, GitHub, Slack
           - Visual Studio Code, Eclipse, PyCharm(Anaconda)
-
+  - title: Certificate
+    layout: list
+    content:
+      - layout: left
+        title: 정보처리기능사 취득
+        sub_title: 한국산업인력공단
+        caption: 2018.10
+      - layout: left
+        title: 전기기능사 취득
+        sub_title: 한국산업인력공단
+        caption: 2019.07
 
 # Footer
 footer_show_references: true
