@@ -105,14 +105,15 @@ content:
     layout: list
     content:
       - layout: left
-        title: 자율주행을 위한 임베디드 및 AI영상분석 컨버젼스 SW개발자 양성 과정 
+        title: Education
         sub_title: PlayData
         caption: 2020.03 ~ 2020.09 
         description: | # this will include new lines to allow paragraphs
-          Language : Java, Python, Android(Java)
-          Framework : Spring Boot
-          DB : Oracle
-          Other : openCV, Deep Learning Basic(tensorflow), raspberry pi, Linux
+          자율주행을 위한 임베디드 및 AI영상분석 컨버젼스 SW개발자 양성 과정 
+          - Language : Java, Python, Android(Java)
+          - Framework : Spring Boot
+          - DB : Oracle
+          - Other : openCV, Deep Learning Basic(tensorflow), raspberry pi, Linux
   - title: SKills
     layout: list
     content:
