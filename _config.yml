@@ -77,11 +77,7 @@ content:
           - ELK ( Filebeat, Logstash, ElasticSearch, Kinana ) 모니터링 시스템 구축
           - Docker, Docker Compose 사용하여 배포
           - Nginx, pm2 로 무중단 배포 시스템 구축
-      - layout: left
-        title: MonsterGuide
-        caption: 2020.12 ~ 현재
-        link: https://www.mongastudio.com/
-        description: | # this will include new lines to allow paragraphs
+
           Movie In Case 모바일 앱 Beta버전 서버(Dev Ops), 시스템 개발
           - Nodejs Express framework을 사용하여 앱 서버 구축
           - MySQL DB 테이블 설계 및 구축
