@@ -83,7 +83,7 @@ content:
         link: https://www.mongastudio.com/
         description: | # this will include new lines to allow paragraphs
           Movie In Case 모바일 앱 Beta버전 서버(Dev Ops), 시스템 개발
-          - nodejs Express framework을 사용하여 앱 서버 구축
+          - Nodejs Express framework을 사용하여 앱 서버 구축
           - MySQL DB 테이블 설계 및 구축
           - Passport를 활용 인증 방식
           - Redis를 활용한 로그인 세션 관리  
