@@ -104,14 +104,15 @@ content:
   - title: Education
     layout: list
     content:
-      - layout: top-right
-        title: Institution name
-        sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
-        quote: >
-          Short institution or course description (optional)
+      - layout: left
+        title: 자율주행을 위한 임베디드 및 AI영상분석 컨버젼스 SW개발자 양성 과정 
+        sub_title: PlayData
+        caption: 2020.03 ~ 2020.09 
         description: | # this will include new lines to allow paragraphs
-          Description of qualification
+          Language : Java, Python, Android(Java)
+          Framework : Spring Boot
+          DB : Oracle
+          Other : openCV, Deep Learning Basic(tensorflow), raspberry pi, Linux
   - title: SKill
     layout: list
     content:
