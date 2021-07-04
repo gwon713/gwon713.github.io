@@ -1,5 +1,5 @@
 # Site
-# repository: gwon713/gwon713.github.io
+repository: gwon713/gwon713.github.io
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Content configuration version
@@ -43,7 +43,7 @@ additional_links:
   #   - Tables
   #   - <a href="google.com">Links</a>
   #   - Images ![alt text](/images/landscape-trees.jpg "Trees")
-about_title: About Me 
+#about_title: About Me 
 about_profile_image: images/imoge1.jpg
 about_content: | # this will include new lines to allow paragraphs
 - 지식 공유를 통해 성장하는 개발자
