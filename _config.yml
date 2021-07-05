@@ -117,6 +117,7 @@ content:
           - Other : openCV, Deep Learning Basic(tensorflow), raspberry pi, Linux
       - layout: left
         title: high school
+        sub_title: 서울로봇마이스터고등학교
         caption: 2017.03 ~ 2020.02
         description: | # this will include new lines to allow paragraphs
           로봇시스템 전공  
