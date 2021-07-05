@@ -120,7 +120,7 @@ content:
         caption: 2017.03 ~ 2020.02
         description: | # this will include new lines to allow paragraphs
           로봇시스템 전공  
-          - 컴퓨터 공학 기초, Iot, 임베디드 소프트웨어
+          - 컴퓨터 공학 기초, IoT, 임베디드 소프트웨어
   - title: SKills
     layout: list
     content:
