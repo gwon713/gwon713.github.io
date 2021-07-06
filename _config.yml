@@ -120,7 +120,7 @@ content:
         sub_title: 서울로봇마이스터고등학교
         caption: 2017.03 ~ 2020.02
         description: | # this will include new lines to allow paragraphs
-          로봇시스템 전공 (정보처리 관련 학과)
+          로봇시스템 전공 (정보통신 관련 학과)
           - 컴퓨터 공학 기초, IoT, 임베디드 소프트웨어
   - title: SKills
     layout: list
