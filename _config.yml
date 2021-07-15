@@ -112,7 +112,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           자율주행을 위한 임베디드 및 AI영상분석 컨버젼스 SW개발자 양성 과정 
           - Language : Java, Python, Android(Java)
-          - Framework : Spring Boot
+          - Framework : Spring, Spring Boot
           - DB : Oracle
           - Other : openCV, Deep Learning Basic(tensorflow), raspberry pi, Linux
       - layout: left
