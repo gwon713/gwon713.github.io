@@ -140,7 +140,7 @@ content:
           - MySQL, Oracle, MongoDB
           - AWS : EC2, RDS (Aurora), Elastic Cache (Redis), Route53, LoadBalancer, S3, Cloud Watch
           - Nginx, pm2
-          - ElK ( Beats, Logstash, Elasticsearch, Kibana)
+          - ElK ( Beats, Logstash, Elasticsearch, Kibana )
           - Docker, Docker-compose
           - Linux, Ubuntu
       - layout: left
