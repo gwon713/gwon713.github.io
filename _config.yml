@@ -132,7 +132,7 @@ content:
       - layout: left
         title: Backend
         description: | # this will include new lines to allow paragraphs
-          - Express, Spring Boot
+          - Express, Spring, Spring Boot
           - Passport, Winston, Morgan
       - layout: left
         title: DevOps
