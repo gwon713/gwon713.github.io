@@ -158,11 +158,11 @@ content:
       - layout: left
         title: 정보처리기능사 취득
         sub_title: 한국산업인력공단
-        caption: 2018.10
+        caption: 2018.10.04
       - layout: left
         title: 전기기능사 취득
         sub_title: 한국산업인력공단
-        caption: 2019.07
+        caption: 2019.07.12
 
 # Footer
 footer_show_references: true
