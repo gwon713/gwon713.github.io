@@ -128,7 +128,7 @@ content:
       - layout: left
         title : Language 
         description: |
-          - JavaScript, Java, Python
+          - JavaScript, TypeScript, Java, Python
       - layout: left
         title: Backend
         description: | # this will include new lines to allow paragraphs
@@ -138,7 +138,7 @@ content:
         title: DevOps
         description: | # this will include new lines to allow paragraphs
           - MySQL, Oracle, MongoDB
-          - AWS : EC2, RDS (Aurora), Elastic Cache (Redis), Route53, LoadBalancer, S3, Cloud Watch
+          - AWS : EC2, RDS, Elastic Cache (Redis), Route53, LoadBalancer, S3, Cloud Watch
           - Nginx, pm2
           - ElK ( Beats, Logstash, Elasticsearch, Kibana )
           - Docker, Docker-compose
