@@ -17,17 +17,17 @@ website: https://velog.io/@gwon713
 darkmode: true
 
 # Social links
-github_username:  gwon713
+github_username: gwon713
 instagram_username: gwn_mj
 
 # Additional icon links
 additional_links:
-- title: Blog
-  icon: fab fa-blogger
-  url: https://velog.io/@gwon713
-- title: Rocket Punch
-  icon: fas fa-rocket
-  url: https://www.rocketpunch.com/@gwon713
+  - title: Blog
+    icon: fab fa-blogger
+    url: https://velog.io/@gwon713
+  - title: Rocket Punch
+    icon: fas fa-rocket
+    url: https://www.rocketpunch.com/@gwon713
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #   url: Link url (eg. https://google.com)
@@ -39,24 +39,28 @@ additional_links:
 # google_analytics: "UA-00000000-0"
 
 # About Section
- # Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+# Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
-  # You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-  #   - Lists
-  #   - Tables
-  #   - <a href="google.com">Links</a>
-  #   - Images ![alt text](/images/landscape-trees.jpg "Trees")
-#about_title: About Me 
-about_profile_image: images/imoge1.jpg
+# You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
+#   - Lists
+#   - Tables
+#   - <a href="google.com">Links</a>
+#   - Images ![alt text](/images/landscape-trees.jpg "Trees")
+#about_title: About Me
+about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   - 지식 공유를 통해 성장하는 개발자
 
-    지식을 남에게 알려주는 것만큼 지식을 자신의 것으로 만드는 방법은 없습니다. 
+    지식을 남에게 알려주는 것만큼 지식을 자신의 것으로 만드는 방법은 없습니다.
     
-    그래서 저는 기술 블로그로 지식을 공유하는 것을 통해 성장해 나가고 있습니다.
+    그래서 저는 기술 블로그로 지식을 공유하고
+
+    또한 사내 세미나 주최 및 개발 커뮤니티 형성으로 좋은 개발문화에 기여를 하며 성장해 나가고 있습니다.
+
   - 학습을 좋아하는 개발자
 
     1 일 1 커밋 운동을 하면서 매일 1시간씩 개발 관련 지식을 공부하거나 토이프로젝트를 하고 있습니다.
+
   - 프로스포츠 선수처럼 자기 계발을 하는 개발자
 
     개발자라면 프로스포츠 선수처럼 꾸준하게 자기 계발을 통해서 성장해 나가야 한다고 생각하고 있습니다.
@@ -71,8 +75,46 @@ content:
     layout: list
     content:
       - layout: left
+        title: AteamVentures
+        caption: 2021.10 ~ 현재
+        link: https://capa.ai
+        description: |
+          CAPA 웹 백엔드 개발 및 유지보수
+          - CAPA 3.0 업데이트 견적, 발주 작업
+            - 견적, 발주 기능 개발
+            - 견적서, 발주서 pdf 기능 개발
+            - 백오피스 기능 개발
+
+          - CAPA 커넥트 
+            - 연락처 기능 개발
+            - 백오피스 기능 개발
+
+          - CAPA 도면 변환 앱 AWS Lambda 전환 작업
+            - 기존의 위험성이 있던 도면 변환 앱을 AWS Lambda로 전환하여 개선
+
+          - Git Flow Rule
+            - MonoRepo 프로젝트에 적합한 Git Flow 적용
+            - 기존 버전관리 문제점 개선
+
+          CAPA DevOps 개발 및 유지보수
+
+          - 기존 레거시 AWS 서비스 VPC 개편 및 데이터 이전 작업
+            - VPC, Subnet, Security가 보안적인 이슈로 인해 보안적으로 안전하게 설계된 AWS VPC 이전 작업 진행
+            - DB, S3 Data Migration
+            
+          - CAPA 모니터링 시스템 구축
+            - AWS Xray
+            - Sentry
+            - Third Party App Alarm
+
+          - Docker, CI/CD 환경 개선
+            - 불필요한 파일 및 리소스 제거 Docker Image 경량화
+            - Deploy관련 Schell Script 개선
+            - Third Party App Alarm
+
+      - layout: left
         title: MonsterGuide
-        caption: 2020.12 ~ 현재
+        caption: 2020.12 ~ 2021.09
         link: https://www.mongastudio.com/
         description: | # this will include new lines to allow paragraphs
           Movie In Case 모바일 앱 백엔드 개발
@@ -86,7 +128,7 @@ content:
           - ELK ( Filebeat, Logstash, ElasticSearch, Kinana ) 모니터링 시스템 구축
           - Docker, Docker Compose 사용하여 배포
           - Nginx, pm2 로 무중단 배포 시스템 구축
-   
+
   # - title: Projects # Title for the section
   #   layout: list # Type of content section (list/text)
   #   content:
@@ -111,7 +153,7 @@ content:
       - layout: left
         title: 국비지원교육
         sub_title: PlayData
-        caption: 2020.03 ~ 2020.09 
+        caption: 2020.03 ~ 2020.09
         description: | # this will include new lines to allow paragraphs
           자율주행을 위한 임베디드 및 AI영상분석 컨버젼스 SW개발자 양성 과정 
           - Language : Java, Python, Android(Java)
@@ -129,23 +171,24 @@ content:
     layout: list
     content:
       - layout: left
-        title : Language 
+        title: Language
         description: |
-          - JavaScript, TypeScript, Java, Python
+          - JavaScript, TypeScript, Java, Python, Shell Script
       - layout: left
         title: Backend
         description: | # this will include new lines to allow paragraphs
-          - Express, Spring, Spring Boot
-          - Nodejs Module ( Passport, Winston, Morgan )
+          - Nestjs, GraphQL, Nodejs, Express, Spring, Spring Boot
+          - Nodejs ( Jest, Passport, Winston, Morgan )
       - layout: left
         title: DevOps
         description: | # this will include new lines to allow paragraphs
-          - MySQL, Oracle, MongoDB
+          - Postgresql, MySQL, Oracle, MongoDB
           - AWS : EC2, RDS, Elastic Cache (Redis), Route53, LoadBalancer, S3, Cloud Watch
           - Nginx, pm2
           - ElK ( Beats, Logstash, Elasticsearch, Kibana )
-          - Docker, Docker-compose
+          - Docker, Docker-compose, AWS ECR
           - Linux, Ubuntu
+          - Git Action
       - layout: left
         title: Frontend
         description: | # this will include new lines to allow paragraphs
@@ -180,17 +223,18 @@ sass:
   style: compressed
 
 plugins:
- - jekyll-seo-tag
+  - jekyll-seo-tag
 
-exclude : [
-  "Gemfile",
-  "Gemfile.lock",
-  "node_modules",
-  "vendor/bundle/",
-  "vendor/cache/",
-  "vendor/gems/",
-  "vendor/ruby/",
-  "lib/",
-  "scripts/",
-  "docker-compose.yml",
+exclude:
+  [
+    "Gemfile",
+    "Gemfile.lock",
+    "node_modules",
+    "vendor/bundle/",
+    "vendor/cache/",
+    "vendor/gems/",
+    "vendor/ruby/",
+    "lib/",
+    "scripts/",
+    "docker-compose.yml",
   ]
