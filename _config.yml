@@ -52,7 +52,7 @@ about_content: | # this will include new lines to allow paragraphs
   - 지식 공유를 통해 성장하는 개발자
 
     지식을 남에게 알려주는 것만큼 지식을 자신의 것으로 만드는 방법은 없습니다.
-    
+
     그래서 저는 기술 블로그로 지식을 공유하고
 
     또한 사내 세미나 주최 및 개발 커뮤니티 형성으로 좋은 개발문화에 기여를 하며 성장해 나가고 있습니다.
@@ -110,7 +110,6 @@ content:
           - Docker, CI/CD 환경 개선
             - 불필요한 파일 및 리소스 제거 Docker Image 경량화
             - Deploy관련 Schell Script 개선
-            - Third Party App Alarm
 
       - layout: left
         title: MonsterGuide
