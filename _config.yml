@@ -124,7 +124,7 @@ content:
 
           Movie In Case 모바일 앱 서버(Dev Ops) 개발
           - AWS EC2, LoadBalancer, RDS, Elastic Cache Redis 사용하여 서버 시스템 구축
-          - ELK ( Filebeat, Logstash, ElasticSearch, Kinana ) 모니터링 시스템 구축
+          - ELK (Filebeat, Logstash, ElasticSearch, Kinana) 모니터링 시스템 구축
           - Docker, Docker Compose 사용하여 배포
           - Nginx, pm2 로 무중단 배포 시스템 구축
 
@@ -177,14 +177,14 @@ content:
         title: Backend
         description: | # this will include new lines to allow paragraphs
           - Nestjs, GraphQL, Nodejs, Express, Spring, Spring Boot
-          - Nodejs ( Jest, Passport, Winston, Morgan )
+          - Nodejs (Jest, Passport, Winston, Morgan)
       - layout: left
         title: DevOps
         description: | # this will include new lines to allow paragraphs
           - Postgresql, MySQL, Oracle, MongoDB
           - AWS : EC2, RDS, Elastic Cache (Redis), Route53, LoadBalancer, S3, Cloud Watch
           - Nginx, pm2
-          - ElK ( Beats, Logstash, Elasticsearch, Kibana )
+          - ElK (Beats, Logstash, Elasticsearch, Kibana)
           - Docker, Docker-compose, AWS ECR
           - Linux, Ubuntu
           - Git Action
