@@ -182,8 +182,9 @@ content:
         title: DevOps
         description: | # this will include new lines to allow paragraphs
           - Postgresql, MySQL, Oracle, MongoDB
-          - AWS : EC2, RDS, Elastic Cache (Redis), Route53, LoadBalancer, S3, Cloud Watch
+          - AWS : EC2, Lambda, RDS, Elastic Cache (Redis), Route53, LoadBalancer, S3, Cloud Watch
           - Nginx, pm2
+          - RMQ, RPC, WS
           - ElK (Beats, Logstash, Elasticsearch, Kibana)
           - Docker, Docker-compose, AWS ECR
           - Linux, Ubuntu
