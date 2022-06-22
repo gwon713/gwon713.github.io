@@ -91,6 +91,7 @@ content:
 
           - CAPA 도면 변환 앱 AWS Lambda 전환 작업
             - 기존의 위험성이 있던 도면 변환 앱을 AWS Lambda로 전환하여 개선
+            - 월별 도면변환 2000개 기준 비용 65% 감소
 
           - Git Flow Rule
             - MonoRepo 프로젝트에 적합한 Git Flow 적용
