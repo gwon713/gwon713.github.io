@@ -80,33 +80,35 @@ content:
         link: https://capa.ai
         description: |
           CAPA 웹 백엔드 개발 및 유지보수
+
           - CAPA 3.0 업데이트 견적, 발주 작업
-            - 견적, 발주 기능 개발
-            - 견적서, 발주서 pdf 기능 개발
-            - 백오피스 기능 개발
+            - 견적서 기능, 발주서 기능 API 개발
+            - 견적서, 발주서 pdf API 개발
+            - 백오피스 API 개발
 
           - CAPA 커넥트 
-            - 연락처 기능 개발
-            - 백오피스 기능 개발
+            - 연락처 API 개발
+            - 추천친구 API 개발
+            - 백오피스 API 개발
 
           - CAPA 도면 변환 앱 AWS Lambda 전환 작업
             - 기존의 위험성이 있던 도면 변환 앱을 AWS Lambda로 전환하여 개선
-            - 월별 도면변환 2000개 기준 비용 65% 감소
+            - 온디멘드 변환 서버를 Lambda로 전환 하여 월별 도면변환 2000개 기준 비용 65% 감소
 
-          - Git Flow Rule
+          - CI/CD 개선
             - MonoRepo 프로젝트에 적합한 Git Flow 적용
-            - 기존 버전관리 문제점 개선
+            - 기존 버전관리 및 배포 문제점 개선
 
           CAPA DevOps 개발 및 유지보수
 
           - 기존 레거시 AWS 서비스 VPC 개편 및 데이터 이전 작업
-            - VPC, Subnet, Security가 보안적인 이슈로 인해 보안적으로 안전하게 설계된 AWS VPC 이전 작업 진행
-            - DB, S3 Data Migration
+            - VPC, Subnet, Security 문제점을 개선한 AWS VPC 이전 작업 진행
+            - RDS, S3 Data 백업 및 이전 작업 진행
             
           - CAPA 모니터링 시스템 구축
             - AWS Xray
             - Sentry
-            - Third Party App Alarm
+            - Third Party App Alarm (MS Teams, Jira)
 
           - Docker, CI/CD 환경 개선
             - 불필요한 파일 및 리소스 제거 Docker Image 경량화
