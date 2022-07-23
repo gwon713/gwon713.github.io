@@ -81,12 +81,16 @@ content:
         description: |
           CAPA 웹 백엔드 개발 및 유지보수
 
-          - CAPA 3.0 업데이트 견적, 발주 작업
+          Framework - Nestjs
+
+          DB - Postgres
+
+          - CAPA 3.0 업데이트 견적, 발주 작업 - https://capa.ai, https://parters.capa.ai
             - 견적서 기능, 발주서 기능 API 개발
             - 견적서, 발주서 pdf API 개발
             - 백오피스 API 개발
 
-          - CAPA 커넥트 
+          - CAPA 커넥트 - https://connect.capa.ai
             - 연락처 API 개발
             - 추천친구 API 개발
             - 백오피스 API 개발
@@ -119,15 +123,18 @@ content:
         caption: 2020.12 ~ 2021.09
         link: https://www.mongastudio.com/
         description: | # this will include new lines to allow paragraphs
+          Framework - Nodejs Express
+
+          DB - MySQL
+
           Movie In Case 모바일 앱 백엔드 개발
           - Nodejs Express framework을 사용하여 앱 서버 구축
           - MySQL DB 테이블 설계 및 구축
           - Passport를 활용 인증 방식
-          - Redis를 활용한 로그인 세션 관리  
+          - Redis를 활용한 로그인 세션 관리
 
           Movie In Case 모바일 앱 서버(Dev Ops) 개발
           - AWS EC2, LoadBalancer, RDS, Elastic Cache Redis 사용하여 서버 시스템 구축
-          - ELK (Filebeat, Logstash, ElasticSearch, Kinana) 모니터링 시스템 구축
           - Docker, Docker Compose 사용하여 배포
           - Nginx, pm2 로 무중단 배포 시스템 구축
 
@@ -188,7 +195,6 @@ content:
           - AWS : EC2, Lambda, RDS, Elastic Cache (Redis), Route53, LoadBalancer, S3, Cloud Watch
           - Nginx, pm2
           - RMQ, RPC, WS
-          - ElK (Beats, Logstash, Elasticsearch, Kibana)
           - Docker, Docker-compose, AWS ECR
           - Linux, Ubuntu
           - Git Action
