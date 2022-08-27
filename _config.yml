@@ -79,7 +79,7 @@ content:
         caption: 2021.10 ~ 현재
         link: https://capa.ai
         description: |
-          CAPA 웹 백엔드 개발 및 유지보수
+          도면 견전 비교 플랫폼 CAPA 웹 백엔드 개발 및 유지보수
 
           Framework - Nestjs
 
@@ -90,18 +90,19 @@ content:
             - 견적서, 발주서 pdf API 개발
             - 백오피스 API 개발
 
-          - CAPA 커넥트 - https://connect.capa.ai
+          - CAPA 커넥트 - 실기간 도면 소통 앱 ( 웹, 모바일 ) https://connect.capa.ai
             - 연락처 API 개발
             - 추천친구 API 개발
             - 백오피스 API 개발
 
-          - CAPA 도면 변환 앱 AWS Lambda 전환 작업
-            - 기존의 위험성이 있던 도면 변환 앱을 AWS Lambda로 전환하여 개선
-            - 온디멘드 변환 서버를 Lambda로 전환 하여 월별 도면변환 2000개 기준 비용 65% 감소
+          - CAPA 도면 변환 앱 AWS Lambda 전환 작업 (Python)
+            - 기존의 위험성이 있던 도면 변환 앱을 Severless AWS Lambda로 전환하여 개선
+            - 온디멘드 변환 서버를 Severless(AWS Lambda)로 전환 하여 월별 도면변환 2000개 기준 비용 65% 감소
 
           - CI/CD 개선
-            - MonoRepo 프로젝트에 적합한 Git Flow 적용
-            - 기존 버전관리 및 배포 문제점 개선
+            - Git Action에 Docker Buildx Cache를 적용시켜 평균 빌드 시간 25% 감소 
+            - MonoRepo 구조에 적합한 Git Flow 설계 및 적용
+            - API 서버 버전관리 컨벤션 제작 및 적용
 
           CAPA DevOps 개발 및 유지보수
 
@@ -174,8 +175,8 @@ content:
         sub_title: 서울로봇마이스터고등학교
         caption: 2017.03 ~ 2020.02
         description: | # this will include new lines to allow paragraphs
-          로봇시스템 전공 (정보통신 관련 학과)
-          - 컴퓨터 공학 기초, IoT, 임베디드 소프트웨어, 네트워크 기초
+          로봇시스템 전공
+          - 컴퓨터 공학 기초, IoT 시스템, 임베디드 소프트웨어, 네트워크 기초
   - title: SKills
     layout: list
     content:
