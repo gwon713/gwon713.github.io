@@ -99,7 +99,7 @@ content:
             - 기존의 위험성이 있던 도면 변환 앱을 Severless AWS Lambda로 전환하여 개선
             - 온디멘드 변환 서버를 Severless(AWS Lambda)로 전환 하여 월별 도면변환 2000개 기준 비용 65% 감소
 
-          - 버전 관ㅣ 개선
+          - 버전 관리 개선
             - MonoRepo 구조에 적합한 Git Flow 설계 및 적용
             - API 서버 버전관리 컨벤션 제작 및 적용
 
