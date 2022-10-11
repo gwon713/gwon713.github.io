@@ -75,17 +75,23 @@ content:
     layout: list
     content:
       - layout: left
+        title: ABLY Corporation
+        caption: 2022.10 ~ 
+        link: https://a-bly.com/
+        description: |
+          3천만유저 AI 쇼핑앱 에이블리 Back-End
+      - layout: left
         title: AteamVentures
-        caption: 2021.10 ~ 현재
+        caption: 2021.10 ~ 2022.10
         link: https://capa.ai
         description: |
-          도면 견적 비교 플랫폼 CAPA 웹 백엔드 개발 및 유지보수
+          도면 견적 비교 플랫폼 CAPA 웹 서비스 Back-End, DevOps
 
           Framework - Nestjs
 
           DB - Postgres
 
-          - CAPA 3.0 업데이트 견적, 발주 작업 - https://capa.ai, https://parters.capa.ai
+          - CAPA 3.0 업데이트 견적, 발주 기능 백엔드 개발 - https://capa.ai, https://parters.capa.ai
             - 견적서 기능, 발주서 기능 API 개발
             - 견적서, 발주서 pdf API 개발
             - 백오피스 API 개발
@@ -123,18 +129,18 @@ content:
         title: MonsterGuide
         caption: 2020.12 ~ 2021.09
         link: https://www.mongastudio.com/
-        description: | # this will include new lines to allow paragraphs
+        description: |
           Framework - Nodejs Express
 
           DB - MySQL
 
-          Movie In Case 모바일 앱 백엔드 개발
+          Movie In Case 모바일 앱 Back-End
           - Nodejs Express framework을 사용하여 앱 서버 구축
           - MySQL DB 테이블 설계 및 구축
           - Passport를 활용 인증 방식
           - Redis를 활용한 로그인 세션 관리
 
-          Movie In Case 모바일 앱 서버(Dev Ops) 개발
+          Movie In Case 모바일 앱 Dev Ops
           - AWS EC2, LoadBalancer, RDS, Elastic Cache Redis 사용하여 서버 시스템 구축
           - Docker, Docker Compose 사용하여 배포
           - Nginx, pm2 로 무중단 배포 시스템 구축
